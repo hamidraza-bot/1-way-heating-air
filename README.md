@@ -1,4 +1,4 @@
-[Uploading index.html.html…]()
+[Uploading index.html…]()
 <!DOCTYPE html>
 <html lang="en">
 <head>
